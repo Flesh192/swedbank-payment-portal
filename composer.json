@@ -1,5 +1,5 @@
 {
-    "name": "swedbank-spp/swedbank-payment-portal",
+    "name": "flesh192/swedbank-payment-portal",
     "description": "The Swedbank Payment Portal API Library provides access to the online banking system through which e-commerce transactions can be initiated and fulfilled by facilitating the exchange of bank data.",
     "type": "library",
     "autoload": {
